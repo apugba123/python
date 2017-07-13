@@ -1,3 +1,5 @@
+#print "write your name"
+
 def get_age():
         return raw_input("whats your age?")
 
